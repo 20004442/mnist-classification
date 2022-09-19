@@ -16,7 +16,8 @@ It is a widely used and deeply understood dataset and, for the most part, is “
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://user-images.githubusercontent.com/75235813/190948936-0031040a-8593-49f9-b363-b4ad12c95de8.png)
+
 
 ## DESIGN STEPS
 
