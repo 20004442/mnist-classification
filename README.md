@@ -131,6 +131,7 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
+![image](https://user-images.githubusercontent.com/75235813/191211834-18727da0-76d7-43c3-bca4-d63e47957002.png)
 
 ### Classification Report
 
